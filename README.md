@@ -1,11 +1,11 @@
 # CryptoLicense.NET
-Powerful, open source licensing system, with unique &amp; advanced security algorithms, written asymmetrically in .NET Core.
+Powerful, open source licensing system, with unique &amp; advanced security algorithms, written asynchronous in .NET Core.
 
 ### Features:
 - Use of Advanced encryption standard (AES)
 - Unique security algorithms
 - HWID Lock configurable 
-- Asymmetric code written in a library for .NET Core
+- Asynchronous code written in a library for .NET Core
 - Possibility of ban licenses
 - Customizable license rank
 - Advanced HWID Grip
