@@ -1,5 +1,5 @@
 # CryptoLicense.NET
-Powerful, open source licensing system, with unique &amp; advanced security algorithms, written asynchronous in .NET Core.
+Powerful, open source licensing system, written asynchronous in .NET Core.
 
 ### Features:
 - Use of Advanced encryption standard (AES)
