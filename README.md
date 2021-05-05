@@ -9,6 +9,7 @@ Powerful, open source licensing system, written asynchronous in .NET Core.
 - Possibility of ban licenses
 - Customizable license rank
 - Advanced HWID Grip
+- WEB-API Based
 
 ### Operation:
 ![Pictogram](https://i.imgur.com/MYyUn49.png)
