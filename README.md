@@ -3,9 +3,8 @@ Powerful, open source licensing system, written asynchronous in .NET Core.
 
 ### Features:
 - Use of Advanced encryption standard (AES)
-- Unique security algorithms
 - HWID Lock configurable 
-- Asynchronous code written in a library for .NET Core
+- <A>synchronous code written in a library for .NET Core
 - Possibility of ban licenses
 - Customizable license rank
 - Advanced HWID Grip
